@@ -18,6 +18,6 @@ Daremo tutte le comunicazioni di ogni genere su questo canale Telegram: [@unitnD
 
 - *Non ho capito un bel niente, chi posso contattare?*
 
-Contattate [mfranzil](https://github.com/mfranzil) o [Toniolo-Marco](https://github.com/Toniolo-Marco) se non avete idea da dove partire, se avete riscontrato problemi, o se volete che dei contenuti all'interno dell'organizzazione vengano cancellati. In alternativa potete mandare una mail a `unitn [dot] drive [at] gmail [dot] com`.
+Contattate [mfranzil](https://github.com/mfranzil) o [Toniolo-Marco](https://github.com/Toniolo-Marco) se non avete idea da dove partire, se avete riscontrato problemi, o se volete che dei contenuti all'interno dell'organizzazione vengano cancellati. In alternativa potete mandare una mail a `unitn.drive@gmail.com`.
 
 
