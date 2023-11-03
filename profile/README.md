@@ -1,6 +1,6 @@
 # UniTN DISI Drive
 
-English speaking 🇬🇧? Read the [english version](english.md).
+English speaking 🇬🇧? Read the [english version](https://github.com/unitn-drive/.github/blob/master/profile/english.md).
 
 ----------
 
