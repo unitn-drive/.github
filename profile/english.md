@@ -41,4 +41,4 @@ We will give all kinds of communication on this Telegram channel: [@unitnDrive](
 
 - *I don't understand a damn thing, who can I contact?*
 
-Contact [mfranzil](https://github.com/mfranzil) or [Toniolo-Marco](https://github.com/Toniolo-Marco) if you have no idea where to start, if you have encountered problems, or if you want content within the organization to be deleted. Alternatively, you can contact us at `unitn.drive@gmail.com`.
+Contact [Toniolo-Marco](https://github.com/Toniolo-Marco) if you have no idea where to start, if you have encountered problems, or if you want content within the organization to be deleted. Alternatively, you can contact us at `unitn.drive@gmail.com`.
