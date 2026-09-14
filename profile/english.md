@@ -35,6 +35,20 @@ The procedure seems convoluted, but it is deliberately so to avoid access to res
 
 A GitHub org is nothing more than a collection of repositories managed by a group of people. Within it, once joined, you will find a repository for each course. We encourage those joining for the first time to read the README you will find inside once you have accepted the invitation.
 
+- *Where can I find PDF books, the VPN guide, and other materials?*
+
+**PDF books**
+
+PDF books are available at the following link. Before browsing the books, it is strongly recommended to check this list first to see whether the book you are looking for is available in the University's online library service.
+
+**University VPN**
+
+A guide to configure the University VPN on Linux is available at the following [link](https://gist.github.com/kalsifer-742/6a0020fac65bff2d10d663269d36ef36).
+
+**Everything else**
+
+Most of the material is split across several repositories, one for each course. You can find the list of course repositories here and the auxiliary ones here.
+
 - *How do I get in touch with the organizers?*
 
 We will give all kinds of communication on this Telegram channel: [@unitnDrive](https://t.me/unitndrive).

@@ -35,6 +35,20 @@ La procedura sembra convoluta, ma è volutamente tale per evitare l'accesso alle
 
 Una org di GitHub altro non è che una collezione di repository gestite da un gruppo di persone. Al suo interno, una volta uniti, troverete una repository per ogni corso. Invitiamo chi si unisce per la prima volta a leggere il README che troverete al suo interno una volta accettato l'invito.
 
+- *Dove trovo libri PDF, guida VPN e altro materiale?*
+
+**Libri PDF**
+
+I libri PDF sono disponibili al seguente link. Prima di iniziare a sfogliare i libri, è vivamente consigliato di consultare questa lista per vedere se il libro cercato è disponibile nel Servizio Bibliotecario d'Ateneo online.
+
+**VPN ateneo**
+
+È disponibile una guida per la configurazione della VPN di ateneo per Linux al seguente [link](https://gist.github.com/kalsifer-742/6a0020fac65bff2d10d663269d36ef36).
+
+**Tutto il resto**
+
+La gran parte del materiale è divisa in varie repository, una per ciascun corso. Trovate la lista delle repository qui e qui quelle ausiliarie.
+
 - *Come faccio a mettermi in contatto con gli organizzatori?*
 
 Daremo tutte le comunicazioni di ogni genere su questo canale Telegram: [@unitnDrive](https://t.me/unitndrive).
