@@ -19,7 +19,7 @@ The Drive is based on a series of *repositories*, one per course, which are admi
 
 - *How do I ask to join?*
 
-Log on to [https://inviter.rizzi.network/](https://inviter.rizzi.network/), request a token with **YOUR UniTN ACCOUNT** (then to the email **@students.unitn.it**). On the next page, enter the **GitHub nickname** (which does not have to match your university account) and wait for the invitation to arrive.
+Link your **studenti.unitn.it** email to your Github account, then go to [https://inviter.mooo.com/](https://inviter.mooo.com/).
 
 To summarize:
 
