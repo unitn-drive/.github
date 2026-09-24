@@ -19,7 +19,7 @@ Il Drive è basato su una serie di *repository*, una per corso, che sono amminis
 
 - *Come faccio a chiedere di entrare?*
 
-Accedete a [https://inviter.rizzi.network/](https://inviter.rizzi.network/), chiedete un token con il **VOSTRO ACCOUNT UniTN** (quindi alla mail **@studenti.unitn.it**). Nella pagina successiva, inserite il **nickname GitHub** (che non per forza deve coincidere con il vostro account di ateneo) e aspettate che arrivi l'invito.
+Aggiungete la mail **studenti.unitn.it** al vostro account Github, poi andate su [https://inviter.mooo.com/](https://inviter.mooo.com).
 
 Per riassumere:
 
